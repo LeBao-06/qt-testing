@@ -1,0 +1,70 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/backgroundimage/chessboard_background.jpg</file>
+        <file>assets/backgroundimage/chessgame_menu.jpg</file>
+        <file>assets/backgroundmusic/Beethoven Fur Elise.mp3</file>
+        <file>assets/backgroundmusic/Canon in D Pachelbel.mp3</file>
+        <file>assets/backgroundmusic/Tchaikovsky Dance of the Sugar Plum Fairy.mp3</file>
+        <file>assets/buttons/back.svg</file>
+        <file>assets/buttons/blackside.svg</file>
+        <file>assets/buttons/button_1.png</file>
+        <file>assets/buttons/exit.svg</file>
+        <file>assets/buttons/loadgame.svg</file>
+        <file>assets/buttons/menu.svg</file>
+        <file>assets/buttons/newgame.svg</file>
+        <file>assets/buttons/randomside.svg</file>
+        <file>assets/buttons/redo.svg</file>
+        <file>assets/buttons/reverseboard.svg</file>
+        <file>assets/buttons/savegame.svg</file>
+        <file>assets/buttons/undo.svg</file>
+        <file>assets/buttons/whiteside.svg</file>
+        <file>assets/engineAI/stockfish.exe</file>
+        <file>assets/images/Theme_0/black_bishop.svg</file>
+        <file>assets/images/Theme_0/black_king.svg</file>
+        <file>assets/images/Theme_0/black_knight.svg</file>
+        <file>assets/images/Theme_0/black_pawn.svg</file>
+        <file>assets/images/Theme_0/black_queen.svg</file>
+        <file>assets/images/Theme_0/black_rook.svg</file>
+        <file>assets/images/Theme_0/cancel-svgrepo-com.svg</file>
+        <file>assets/images/Theme_0/white_bishop.svg</file>
+        <file>assets/images/Theme_0/white_king.svg</file>
+        <file>assets/images/Theme_0/white_knight.svg</file>
+        <file>assets/images/Theme_0/white_pawn.svg</file>
+        <file>assets/images/Theme_0/white_queen.svg</file>
+        <file>assets/images/Theme_0/white_rook.svg</file>
+        <file>assets/images/Theme_1/black_bishop.svg</file>
+        <file>assets/images/Theme_1/black_king.svg</file>
+        <file>assets/images/Theme_1/black_knight.svg</file>
+        <file>assets/images/Theme_1/black_pawn.svg</file>
+        <file>assets/images/Theme_1/black_queen.svg</file>
+        <file>assets/images/Theme_1/black_rook.svg</file>
+        <file>assets/images/Theme_1/cancel-svgrepo-com.svg</file>
+        <file>assets/images/Theme_1/white_bishop.svg</file>
+        <file>assets/images/Theme_1/white_king.svg</file>
+        <file>assets/images/Theme_1/white_knight.svg</file>
+        <file>assets/images/Theme_1/white_pawn.svg</file>
+        <file>assets/images/Theme_1/white_queen.svg</file>
+        <file>assets/images/Theme_1/white_rook.svg</file>
+        <file>assets/images/Theme_2/black_bishop.svg</file>
+        <file>assets/images/Theme_2/black_king.svg</file>
+        <file>assets/images/Theme_2/black_knight.svg</file>
+        <file>assets/images/Theme_2/black_pawn.svg</file>
+        <file>assets/images/Theme_2/black_queen.svg</file>
+        <file>assets/images/Theme_2/black_rook.svg</file>
+        <file>assets/images/Theme_2/cancel-svgrepo-com.svg</file>
+        <file>assets/images/Theme_2/white_bishop.svg</file>
+        <file>assets/images/Theme_2/white_king.svg</file>
+        <file>assets/images/Theme_2/white_knight.svg</file>
+        <file>assets/images/Theme_2/white_pawn.svg</file>
+        <file>assets/images/Theme_2/white_queen.svg</file>
+        <file>assets/images/Theme_2/white_rook.svg</file>
+        <file>assets/soundeffect/capture.wav</file>
+        <file>assets/soundeffect/castle.wav</file>
+        <file>assets/soundeffect/move-check.wav</file>
+        <file>assets/soundeffect/move-self.wav</file>
+        <file>assets/soundeffect/promote.wav</file>
+        <file>assets/soundeffect/clicky.wav</file>
+        <file>assets/soundeffect/game-draw.wav</file>
+        <file>assets/soundeffect/game-win-long.wav</file>
+    </qresource>
+</RCC>
